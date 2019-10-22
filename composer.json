@@ -1,0 +1,16 @@
+{ 
+  "name": "alexander4096/random-unico", 
+  "description": "Genera numeros o letras aleatorias de un rango y cantidad asignado que son unicas e irrepetibles",  
+  "type": "library", 
+  "keywords": ["random", "generar", "letras", "numeros"], 
+  "license": "MIT", 
+  "authors": [ { 
+    "name": "alexander4096", 
+    "email": "alexander4096@hotmail.com", 
+    "role": "Developer" } ], 
+  "minimum-stability": "dev", 
+  "autoload": { "psr-4": 
+              {"randomUnico\\": "src/"} 
+              }, 
+  "require": {} 
+}
